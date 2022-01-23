@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "T-Shirt SPANISH",
+      "imageName": "img_product1",
+      "brand": "Mango",
+      "price": 9,
+      "rating": 3,
+      "description": "Short dress in soft cotton jersey with decorative buttons down the front and a wide, frill-trimmed square neckline with concealed elastication. Elasticated seam under the bust and short puff sleeves with a small frill trim."
+    },
+    {
+      "id": "2",
+      "name": "T-Shirt",
+      "imageName": "img_product2",
+      "brand": "Dorothy Perkins",
+      "price": 14,
+      "rating": 4,
+      "description": "Short dress in soft cotton jersey with decorative buttons down the front and a wide, frill-trimmed square neckline with concealed elastication. Elasticated seam under the bust and short puff sleeves with a small frill trim."
+    },
+    {
+      "id": "3",
+      "name": "Shirt",
+      "imageName": "img_product3",
+      "brand": "Mango",
+      "price": 25,
+      "rating": 2,
+      "description": "Short dress in soft cotton jersey with decorative buttons down the front and a wide, frill-trimmed square neckline with concealed elastication. Elasticated seam under the bust and short puff sleeves with a small frill trim."
+    },
+    {
+      "id": "4",
+      "name": "Light T-Shirt",
+      "imageName": "img_product4",
+      "brand": "Dorothy Perkins",
+      "price": 12.5,
+      "rating": 0,
+      "description": "Short dress in soft cotton jersey with decorative buttons down the front and a wide, frill-trimmed square neckline with concealed elastication. Elasticated seam under the bust and short puff sleeves with a small frill trim."
+    },
+    {
+      "id": "5",
+      "name": "T-Shirt SPANISH",
+      "imageName": "img_product1",
+      "brand": "Mango",
+      "price": 9,
+      "rating": 5,
+      "description": "Short dress in soft cotton jersey with decorative buttons down the front and a wide, frill-trimmed square neckline with concealed elastication. Elasticated seam under the bust and short puff sleeves with a small frill trim."
+    },
+    {
+      "id": "6",
+      "name": "T-Shirt",
+      "imageName": "img_product2",
+      "brand": "Dorothy Perkins",
+      "price": 14,
+      "rating": 1,
+      "description": "Short dress in soft cotton jersey with decorative buttons down the front and a wide, frill-trimmed square neckline with concealed elastication. Elasticated seam under the bust and short puff sleeves with a small frill trim."
+    },
+    {
+      "id": "7",
+      "name": "Shirt",
+      "imageName": "img_product3",
+      "brand": "Mango",
+      "price": 25,
+      "rating": 4,
+      "description": "Short dress in soft cotton jersey with decorative buttons down the front and a wide, frill-trimmed square neckline with concealed elastication. Elasticated seam under the bust and short puff sleeves with a small frill trim."
+    },
+    {
+      "id": "8",
+      "name": "Light T-Shirt",
+      "imageName": "img_product4",
+      "brand": "Dorothy Perkins",
+      "price": 12.5,
+      "rating": 2,
+      "description": "Short dress in soft cotton jersey with decorative buttons down the front and a wide, frill-trimmed square neckline with concealed elastication. Elasticated seam under the bust and short puff sleeves with a small frill trim."
+    }
+  ]
+}

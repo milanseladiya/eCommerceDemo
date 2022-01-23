@@ -1,0 +1,28 @@
+{
+  "offer": {
+    "name": "WINTER SALES",
+    "discount": "50"
+  },
+  "categories": [
+    {
+      "id": "1",
+      "name": "New",
+      "imageName": "img_new"
+    },
+    {
+      "id": "2",
+      "name": "Clothes",
+      "imageName": "img_clothes"
+    },
+    {
+      "id": "3",
+      "name": "Shoes",
+      "imageName": "img_shoes"
+    },
+    {
+      "id": "4",
+      "name": "Accesories",
+      "imageName": "img_new"
+    }
+  ]
+}
